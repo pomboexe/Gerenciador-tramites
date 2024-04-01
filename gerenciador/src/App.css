@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container-principal {
+  border: 1px solid rgba(0, 0, 0, 0.253);
+  display: flex;
+  background-color: aliceblue;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  margin: 10% auto;
+  width: 900px;
+  height: fit-content;
+}
+
