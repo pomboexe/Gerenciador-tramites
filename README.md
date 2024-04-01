@@ -22,7 +22,7 @@ npm install
 npm run dev
 
 
-Isso iniciará o servidor do frontend. Você pode acessar o frontend em http://localhost:3000.
+Isso iniciará o servidor do frontend. Você pode acessar o frontend em http://localhost:5713.
 
 
 ## Backend
@@ -54,6 +54,6 @@ Copy code
 npm run start:dev
 
 
-Isso iniciará o servidor do backend. Ele estará acessível em http://localhost:3333.
+Isso iniciará o servidor do backend. Ele estará em http://localhost:3333.
 
 Agora o projeto vai estar pronto para uso
